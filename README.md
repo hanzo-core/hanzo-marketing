@@ -1,3 +1,3 @@
-#hanzo-orders
+#hanzo-marketing
 
-Hanzo orders table and order viewer
+Hanzo marketing AI forms
